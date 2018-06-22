@@ -1,0 +1,2 @@
+g++ -g -Wall -std=c++11 cli_skel.cpp -o monshell.exx
+ pour compiler le shell

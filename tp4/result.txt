@@ -1,0 +1,5 @@
+La socket 3 est maintenant en attente sur l'adresse 0.0.0.0:8080
+log : connexion depuis localhost:43415
+yolo
+efefepkfke fe,ffke
+fermeture de la connexion

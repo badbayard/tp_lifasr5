@@ -1,0 +1,3 @@
+1) la valeur retour du fork est le PID du fils ou 1 si c'est le processuse est le pére, sinon 0 si le processuse est le fils, et -1 si il y a un problème
+
+2)œ
